@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/india"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"
+        android:title="@string/india" />
+    <item
+        android:id="@+id/world"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"
+        android:title="@string/world" />
+    <item
+        android:id="@+id/tracker"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"
+        android:title="@string/tracker"/>
+    <item
+        android:id="@+id/social"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"
+        android:title="@string/social"/>
+    <item
+        android:id="@+id/essentials"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_circle_up_24"
+        android:title="@string/essentials"/>
+</menu>

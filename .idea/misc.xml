@@ -5,7 +5,14 @@
       <map>
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/drawable/ic_baseline_arrow_circle_up_24.xml" value="0.129" />
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/activity_login.xml" value="0.11822916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/activity_register.xml" value="0.2390625" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_india.xml" value="0.18072916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_social.xml" value="0.18072916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_store.xml" value="0.18072916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_tracker.xml" value="0.18072916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_world.xml" value="0.18072916666666666" />
+        <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/menu/bottom_navbar_menu.xml" value="0.18072916666666666" />
       </map>
     </option>
   </component>
