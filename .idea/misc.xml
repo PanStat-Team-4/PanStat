@@ -13,6 +13,23 @@
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_tracker.xml" value="0.18072916666666666" />
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/layout/fragment_world.xml" value="0.18072916666666666" />
         <entry key="..\:/Code/Apps/AndroidStudioProjects/PanStat/app/src/main/res/menu/bottom_navbar_menu.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/drawable-v24/badge_shape.xml" value="0.1915" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/drawable-v24/ic_baseline_delete_24.xml" value="0.1915" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/activity_register.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/activity_store_dashboard.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/cart_action_item.xml" value="0.7911184210526315" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/cart_row.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_cart.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_india.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_order.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_product_detail.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_shop.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/fragment_social.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/layout/shop_row.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/menu/bottom_navbar_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/amank/PanStat/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
   </component>
