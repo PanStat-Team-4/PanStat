@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.TransparentNavBar" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/color_row_bg</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogTheme</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="textInputStyle">@style/AppTheme.EditText.OutlinedBox</item>
+    </style>
+
+    <style name="AppBottomSheetDialogTheme" parent="Theme.MaterialComponents.DayNight.BottomSheetDialog">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="textInputStyle">@style/AppTheme.EditText.OutlinedBox</item>
+
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+    </style>
+
+    <!--UI Elements-->
+
+    <style name="AppTheme.EditText.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/dim_gray</item>
+        <item name="hintTextColor">@color/dim_gray</item>
+    </style>
+
+    <!--BottomSheet-->
+    <style name="AppBottomSheetDialogTheme.Floating" parent="AppBottomSheetDialogTheme">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="AppModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_dialog</item>
+    </style>
+
+    <style name="AppTheme.SearchEditText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:drawableStart">@drawable/ic_baseline_search_24</item>
+        <item name="android:drawablePadding">@dimen/dp_8</item>
+        <item name="drawableTint">@color/color_search_text</item>
+        <item name="android:padding">@dimen/dp_8</item>
+        <item name="android:textColorHint">@color/color_search_text</item>
+        <item name="android:layout_margin">@dimen/dp_16</item>
+        <item name="android:background">@drawable/rounded_background_grey_solid</item>
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style>
+
+    <style name="CardStyle">
+        <item name="cardElevation">@dimen/stat_card_elevation</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="cardBackgroundColor">@color/color_row_bg</item>
+    </style>
+</resources>
